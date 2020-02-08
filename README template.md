@@ -35,14 +35,14 @@ ajax-search.php
 search.php
 index-stt-asc.php
 
-wg\
+wg/
 - footer.php
 - head.php
 - menu-home
 - menu-backhome
 -
 
-page\
+page/
 -
 
 ```
