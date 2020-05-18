@@ -1,5 +1,5 @@
 //// Hàm Kết Nối Database
-function connect_db()
+function ConnectDB()
 {
     // Gọi tới biến toàn cục $conn
     global $conn;
