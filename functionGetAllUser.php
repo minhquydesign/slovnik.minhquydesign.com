@@ -5,7 +5,7 @@ function GetAllUser()
     global $conn;
     
     // Hàm kết nối
-    connect_db();
+    connectDB();
     
     // Câu truy vấn lấy tất cả sinh viên
     $sql = "select * from users ORDER BY created_at ASC";
